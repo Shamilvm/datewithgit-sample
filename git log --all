@@ -1,0 +1,48 @@
+[33mcommit 99bc518b140cb64920d67e0fadaff8839b5748da[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 13:04:33 2022 +0530
+
+    hello file modified
+
+[33mcommit 5a0bc461c90d108eed975287b214c9e77d9f3af3[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 13:00:40 2022 +0530
+
+    hey file commited
+
+[33mcommit ddd8d448d2ea7b3620d09d581b5c63ca1964d0f8[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 66d6fb0 6611b2f
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 12:54:32 2022 +0530
+
+    WIP on feature: 66d6fb0 hey file edited
+
+[33mcommit 6611b2f0ca219b162ea4365b7041dcf6a66b3dd9[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 12:54:32 2022 +0530
+
+    index on feature: 66d6fb0 hey file edited
+
+[33mcommit 66d6fb0849bad78316091ebd3fb9ca609a74445b[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 12:18:27 2022 +0530
+
+    hey file edited
+
+[33mcommit 0f1182f9fbb951eb15d2a1f90b16fab52cc428c5[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 11:45:22 2022 +0530
+
+    second file added
+
+[33mcommit 36c641bc36ef1e806fbdea696022c00f518126b9[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 10:41:01 2022 +0530
+
+    add some messages
+
+[33mcommit 33f043d6eaf0229824ded239d96cb771b2d0dad4[m
+Author: Shamilvm <shanushamil086@gmail.com>
+Date:   Sun Jan 30 09:16:40 2022 +0530
+
+    Initial Commit
